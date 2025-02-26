@@ -41,6 +41,11 @@ Com o Node.js e o `json-server` instalados, execute o seguinte comando para disp
 json-server --watch backend/videos.json
 ```
 
+📚 Vercel
+
+https://vidflow-nodejs-vite-seven.vercel.app/
+
+
 Em seguida, abra o `index.html` no navegador e o VidFlow já pode ser visualizado!
 
 ## 📚 Mais informações do curso
